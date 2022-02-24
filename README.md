@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Lalit Kumar Sharma</h1>
 <h3 align="center">A passionate frontend developer diving into full stack development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lalitsharma7&label=Profile%20views&color=0e75b6&style=flat" alt="lalitsharma7" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lalitsharma7" alt="lalitsharma7" /></a> </p>
+
 
 - 🔭 I’m currently working on [Feedback react App](https://github.com/LalitSharma7/Feedback-App)
 
