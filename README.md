@@ -17,7 +17,6 @@
 
 - 📫 How to reach me **lalit1701sh@gmail.com**
 
-- ⚡ Fun fact **I think I am Cool**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
