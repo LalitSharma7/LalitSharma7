@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on [Feedback react App](https://github.com/LalitSharma7/Feedback-App)
+- 🔭 I’m currently working on [Github Users](https://github.com/LalitSharma7/Feedback-App)
 
 - 🌱 I’m currently learning **React, Nodejs, Expressjs, MongoDB**
 
