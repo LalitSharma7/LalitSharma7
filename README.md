@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Github Users](https://github.com/LalitSharma7/Feedback-App)
 
-- 🌱 I’m currently learning **React, Nodejs, Expressjs, MongoDB**
+- 🌱 I’m currently learning **Azure, Pyspark, Deep Learning, ETL**
 
 - 👯 I’m looking to collaborate on [Machine learning](https://github.com/LalitSharma7/Machine-Learning)
 
@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/LalitSharma7](https://github.com/LalitSharma7)
 
-- 💬 Ask me about **Python, SQL, JavaScript, Machine Learning**
+- 💬 Ask me about **Python, SQL, PowerBi, Machine Learning,**
 
 - 📫 How to reach me **lalit1701sh@gmail.com**
 
