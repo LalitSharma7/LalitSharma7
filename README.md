@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on [100 days python](https://github.com/LalitSharma7/100-days-Python)
+- 🔭 I’m currently working on [Python Crash Course](https://github.com/LalitSharma7/Python-crash-course-10-real-apps-)
 
 - 🌱 I’m currently learning **Azure, Pyspark, Deep Learning, ETL**
 
