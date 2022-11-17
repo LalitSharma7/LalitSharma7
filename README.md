@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lalit Kumar Sharma</h1>
-<h3 align="center">A passionate frontend developer diving into full stack development</h3>
+<h3 align="center">A passionate Data Analyst diving into Data engineering domain</h3>
 
 
 
