@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on [Python Crash Course](https://github.com/LalitSharma7/Python-crash-course-10-real-apps-)
+- 🔭 I’m currently working on [Data Science Roadmap](https://github.com/LalitSharma7/Data-Science-Roadmap)
 
 - 🌱 I’m currently learning **Azure, Pyspark, Deep Learning, ETL**
 
