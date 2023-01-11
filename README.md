@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/LalitSharma7](https://github.com/LalitSharma7)
 
-- 💬 Ask me about **Python, SQL, PowerBi, Machine Learning, Pyspark, Deep Learning, Azure**
+- 💬 Ask me about **Python, SQL, PowerBi, Machine Learning, Pyspark, Cpp, Azure**
 
 - 📫 How to reach me **lalit1701sh@gmail.com**
 
