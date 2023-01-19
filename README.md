@@ -9,8 +9,6 @@
 
 - 👯 I’m looking to collaborate on [Machine learning](https://github.com/LalitSharma7/Machine-Learning)
 
-- 🤝 I’m looking for help with [Online Shop ](https://github.com/LalitSharma7/Online-Shop)
-
 - 👨‍💻 All of my projects are available at [https://github.com/LalitSharma7](https://github.com/LalitSharma7)
 
 - 💬 Ask me about **Python, SQL, PowerBi, Machine Learning, Pyspark, Cpp, Azure**
