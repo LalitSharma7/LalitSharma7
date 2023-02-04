@@ -3,15 +3,15 @@
 
 
 
-- 🔭 I’m currently working on [Data Science Roadmap](https://github.com/LalitSharma7/Data-Science-Roadmap)
+- 🔭 I’m currently working on [Django_APP](https://github.com/LalitSharma7/Django-App)
 
-- 🌱 I’m currently learning **Azure, Pyspark, Deep Learning, ETL**
+- 🌱 I’m currently learning **Azure, Pyspark, Django, ETL**
 
 - 👯 I’m looking to collaborate on [Machine learning](https://github.com/LalitSharma7/Machine-Learning)
 
 - 👨‍💻 All of my projects are available at [https://github.com/LalitSharma7](https://github.com/LalitSharma7)
 
-- 💬 Ask me about **Python, SQL, PowerBi, Machine Learning, Pyspark, Cpp, Azure**
+- 💬 Ask me about **Python, SQL, PowerBi, OOP, Pyspark, Cpp, Azure**
 
 - 📫 How to reach me **lalit1701sh@gmail.com**
 
