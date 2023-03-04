@@ -3,15 +3,15 @@
 
 
 
-- 🔭 I’m currently working on [Django_APP](https://github.com/LalitSharma7/Django-App)
+- 🔭 I’m currently working on [F1_Data_Analysys](https://github.com/LalitSharma7/F1-Data-Analysis)
 
-- 🌱 I’m currently learning **Azure, Pyspark, Django, ETL**
+- 🌱 I’m currently learning **Azure Data factory, Azure Synapse, Pyspark, Databricks, ETL**
 
 - 👯 I’m looking to collaborate on [Machine learning](https://github.com/LalitSharma7/Machine-Learning)
 
 - 👨‍💻 All of my projects are available at [https://github.com/LalitSharma7](https://github.com/LalitSharma7)
 
-- 💬 Ask me about **Python, SQL, PowerBi, OOP, Pyspark, Cpp, Azure**
+- 💬 Ask me about **Python, SQL, PowerBi, OOP, Cpp, AWS Glue, AWS Redshift, AWS lambda**
 
 - 📫 How to reach me **lalit1701sh@gmail.com**
 
