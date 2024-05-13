@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [F1_Data_Analysys](https://github.com/LalitSharma7/F1-Data-Analysis)
 
-- 🌱 I’m currently learning **Azure Data factory, Azure Synapse, Pyspark, Databricks, ETL**
+- 🌱 I’m currently learning **AWS Glue, Apache Airflow, Pyspark, Databricks, ETL**
 
 - 👯 I’m looking to collaborate on [Machine learning](https://github.com/LalitSharma7/Machine-Learning)
 
